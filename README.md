@@ -1,4 +1,34 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# Dia landing page
+
+- [AIR](https://romankushyk.github.io/layout_dia/)
+
+## Description
+
+We believe in the power of bold ideas that can solve business challenges.
+Who we are
+We embrace a strategic approach to creative ideas. We are interested in people and human relationships. This is the main thing you need to know about us. We believe in the power of bold ideas that can solve business challenges.
+You will like it, try it!
+
+Implemented according to [Figma design](https://www.figma.com/file/7qwsWggv9BAxMi2VPhBuPr/Air-(formerly-Dia)?node-id=9138%3A35)
+
+## Technologies
+* HTML5
+* SCSS
+* BEM
+* Adaptive layout
+
+## Local development
+
+### Dependencies
+* Node v12.16.3 and higher
+* NPM v6.14.4 and higher
+
+### Installing
+* Fork and clone this repository
+* Run `npm install` in your terminal
+* Run `npm start`
+
+## Troubleshooting
+
+Any advise for common problems or issues.
+For any contributing or problem solving you could find me [instagram](https://www.instagram.com/romankushyk/) and [email](mailto:romankushyk0@gmail.com)
